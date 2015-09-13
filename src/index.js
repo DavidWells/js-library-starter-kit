@@ -8,6 +8,10 @@ export default {
   random: random
 }
 
+/*
+Add new stuff
+ */
+
 function random(number) {
   if (number === undefined) {
 
