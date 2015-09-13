@@ -14,8 +14,12 @@
 
 1. Clone down repo `git clone REPO_LINK`
 2. Global Find/Replace in project folder `LIBRARY_NAME` with your lib name
+3. Watch this [video tutorial on setting up semver releases](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release) and this [video tutorial on writing conventional commits with commitizenn](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-writing-conventional-commits-with-commitizen)
+4. Profit
 
-(remove this section)
+```
+
+```
 
 ----
 
