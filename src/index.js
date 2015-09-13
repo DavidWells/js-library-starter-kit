@@ -12,6 +12,8 @@ export default {
 Add new stuff
  */
 
+ /* move new stuff! */
+
 function random(number) {
   if (number === undefined) {
 
