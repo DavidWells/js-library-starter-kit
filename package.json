@@ -39,6 +39,9 @@
     "expect": "^1.8.0",
     "semantic-release": "^4.3.4"
   },
+  "release": {
+    "debug": false
+  },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
   },
