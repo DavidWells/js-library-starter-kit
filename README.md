@@ -1,5 +1,3 @@
-# LIBRARY_NAME
-
 [![travis build](https://img.shields.io/travis/DavidWells/js-library-starter-kit.svg?style=flat-square)](https://travis-ci.org/DavidWells/js-library-starter-kit)
 [![codecov coverage](https://img.shields.io/codecov/c/github/DavidWells/js-library-starter-kit.svg?style=flat-square)](https://codecov.io/github/DavidWells/js-library-starter-kit)
 [![version](https://img.shields.io/npm/v/js-library-starter-kit.svg?style=flat-square)](http://npm.im/js-library-starter-kit)
@@ -10,6 +8,7 @@
 # JS Open Source Starter Kit
 
 ----
+
 ## JS Starter Kit Instructions
 
 1. Clone down repo `git clone REPO_LINK`

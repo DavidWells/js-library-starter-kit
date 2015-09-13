@@ -14,6 +14,8 @@ Add new stuff
 
  /* move new stuff! */
 
+ /* new feature 3 */
+
 function random(number) {
   if (number === undefined) {
 
